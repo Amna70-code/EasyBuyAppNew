@@ -1,0 +1,6 @@
+framework module Pods_EasyBuyApp {
+  umbrella header "Pods-EasyBuyApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
